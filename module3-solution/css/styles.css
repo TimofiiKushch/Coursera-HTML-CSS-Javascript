@@ -1,0 +1,74 @@
+.heading {
+	font-size: 1.75em;
+}
+
+.item-title {
+	margin: 0px;
+	padding: 16px;
+	text-align: center;
+	font-size: 1.25em;
+}
+.item-text {
+	text-align: left;
+	clear: right;
+	padding: 15px;
+	margin: 0px;
+	font-size: 1em;
+}
+
+.cell{
+	background-color: lightgray;
+	height: 1000px;
+}
+.navbar{
+	border-width: 2px;
+	border-color: black;
+	background-color: lightcyan;
+}
+.menu-button{
+	border: solid;
+	border-width: 1px;
+	border-color: black;
+	background-color: pink;
+}
+.navbar-brand{
+	font-weight: bold;
+	font-size: 3em;
+	color: black;
+}
+.container-fluid{
+	width: 96%;
+	margin-left: 2%;
+	margin-right: 2%;
+}
+#button-list{
+	margin-top:0px;
+	margin-bottom: 0px;
+}
+.button-text{
+	font-size: 3em;
+	font-weight: bold;
+}
+
+
+/*@media (min-width: 992px){
+	.col-lg-4{
+		width: calc(33% - 40px);
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+	.col-md-6{
+		width: calc(50% - 40px);
+	}
+	.col-md-12{
+		width: calc(100% - 40px);
+	}
+}
+
+@media (max-width: 767px){
+	.col-sd-12{
+		width: calc(100% - 40px);
+	}
+}*/
+
